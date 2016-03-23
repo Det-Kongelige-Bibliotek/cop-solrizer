@@ -1,3 +1,5 @@
+# COP solrizer
+
 This directory contains some scripts and configuration files
 demonstrating how objects can be OAI harvested from
 
